@@ -1,0 +1,20 @@
+﻿  Encryption.c
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(92,7): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(80,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(110,11): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(111,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(113,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(117,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\Encryption.c(213,47): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+  IO.c
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\IO.c(44,45): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\IO.c(20,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\IO.c(21,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\IO.c(57,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  main.c
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\main.c(76,9): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\main.c(47,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\MiniShell\main.c(51,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  StringFunctions.c
+  Generating Code...
+  MiniShell.vcxproj -> C:\Users\Administrator\Desktop\MD\25.MiniShell\MiniShell\x64\Debug\MiniShell.exe
